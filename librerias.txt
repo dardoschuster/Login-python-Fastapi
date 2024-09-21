@@ -1,0 +1,4 @@
+pip install fastapi uvicorn pymongo bcrypt
+
+Inicier el servidor con
+python main.py
